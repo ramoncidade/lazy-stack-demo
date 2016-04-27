@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: lazy-stack-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramoncidade
+Implementation-Vendor-Id: br.com.cidade.lazystack
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
