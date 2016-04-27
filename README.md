@@ -1,1 +1,2 @@
-# lazy-stack-demo
+# Demonstração do lazy stack
+
